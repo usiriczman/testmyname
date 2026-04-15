@@ -1,0 +1,6 @@
+{
+  "name": "Trivia Flashcards",
+  "description": "Juego de trivia interactivo con modos Normal y Relámpago, basado en cartas de categorías.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
